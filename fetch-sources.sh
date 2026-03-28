@@ -19,6 +19,7 @@ function fetch() {
 
 # delete the old sources.
 rm -rf whitelist.txt profiles/*
+mkdir -p profiles/
 
 # fetch sources from @git::ZG089/Re-Malwack:
 fetch whitelist.txt https://raw.githubusercontent.com/ZG089/Re-Malwack/main/whitelist.txt
