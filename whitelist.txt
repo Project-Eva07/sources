@@ -171,3 +171,6 @@ static.addtoany.com
 api.sec.miui.com
 app.market.xiaomi.com
 
+# Pixeldrain
+pixeldrain.com
+
